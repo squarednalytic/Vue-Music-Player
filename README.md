@@ -28,7 +28,7 @@ npm install
 5. Run the application:
 npm run serve
 
-6. Open your browser and go to `http://localhost:8080` to view the application.
+6. Open your browser and go to `http://localhost:3000` to view the application.
 
 ## Usage
 
